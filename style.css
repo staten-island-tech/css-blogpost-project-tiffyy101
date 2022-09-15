@@ -1,8 +1,14 @@
 body {
-    background-color: lightpink;
+    background-color: rgb(245, 209, 214);
     color: #555454;
     font-size: 30px;
 }
 h1{
     color: black;
+}
+.head{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    padding: 50px 25px
 }
