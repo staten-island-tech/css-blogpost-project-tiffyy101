@@ -1,14 +1,17 @@
 body {
     background-color: rgb(245, 209, 214);
-    color: #555454;
+    color: #272626;
     font-size: 30px;
 }
-h1{
-    color: black;
-}
+
 .head{
+    color: rgb(49, 17, 2);
     text-align: center;
-    margin-top: 70px;
-    margin-bottom: 50px;
-    padding: 50px 25px
+    background-color: rgb(245, 232, 215);
+    margin: 50px auto; 
+    padding: 30px auto; 
+}
+
+.background{
+    background-color: rgb(248, 214, 160);
 }
