@@ -1,6 +1,6 @@
 body {
     background-color: rgb(245, 209, 214);
-    color: #272626;
+    color: #353333;
     font-size: 30px;
 }
 
@@ -14,4 +14,9 @@ body {
 
 .background{
     background-color: rgb(248, 214, 160);
+    text-align: center;
+    margin: 30px auto;
 }
+
+
+    
