@@ -15,12 +15,34 @@ body{
 .places{
     text-align: center;
 }
-.background{
+.first-header{
     text-align: center;
     background-color: rgb(248, 214, 160);
     margin: 50px ;  
     padding: 30px ;
 }
+.eiffel{
+    text-align: center;
+    width: 78vh;
+}
 
-
+.eiffel-link{
+    text-align: center;
+}
+.second-header{
+    text-align: center;
+    background-color: rgb(248, 214, 160);
+    margin: 50px ;  
+    padding: 30px ;
+}
+.third-header{
+    text-align: center;
+    background-color: rgb(248, 214, 160);
+    margin: 50px ;  
+    padding: 30px ;
+}
     
+.bora{
+    text-align: center;
+    width: 78vh;
+}
